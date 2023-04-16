@@ -1,0 +1,33 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    padding: 0px 7px;
+    font-size: 18px;
+}
+
+/* Home Section */
+#home{
+    height: 410px;
+}
+#home p{
+    font-size: 15px;
+}
+/* Reviews */
+
+/* Recruiters */
+#recruiters{
+    flex-wrap: wrap;
+}
+#recruiters company{
+    width: 100px;
+    height: ;
+}
+
+/* Contact Form */
+
+/* Utility Classes */
+.h-primary{
+    font-size: 25px;
+}
